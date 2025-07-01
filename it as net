@@ -1,0 +1,23 @@
+next
+    cleric
+
+pit
+   what
+
+what
+    pit
+
+cleric  
+      huh
+
+what
+    if 
+
+else
+    north
+
+else
+    south
+
+bridge
+      concept
